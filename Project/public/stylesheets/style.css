@@ -619,7 +619,7 @@ footer .mail button{
        width: 80%;
        margin: auto;
    }
-   /*.menu{
+   .menu{
     margin:0;
     z-index: 1;
     position: absolute;
@@ -662,5 +662,5 @@ footer .mail button{
 
     #times,#bars{
         display: none;
-    }*/
+    }
 }
